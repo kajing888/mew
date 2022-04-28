@@ -212,21 +212,7 @@ def hasil(ok,cp):
 def yayanxd():
     os.system('clear')
     WAR = random.choice(["[deep_pink3]","[red]","[green]","[cyan]","[blue]"])
-    prints(Panel(f"""{WAR}[bold green].##....##....###.....######..##.....##.####
-[bold white].##...##....##.##...##....##.##.....##..##.
-[bold green].##..##....##...##..##.......##.....##..##.
-[bold white].#####....##.....##.##.......#########..##.
-[bold green].##..##...#########.##.......##.....##..##.
-[bold white].##...##..##.....##.##....##.##.....##..##.
-[bold green].##....##.##.....##..######..##.....##.####
- [bold green][[bold white]FACEBOOK HACKING TOOL[bold white][bold green]]
-[bold green]â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-[bold white]â”‚ Â® Tool By neo   Â® |
-[bold green]â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-[bold green][[bold white]LEARN FROM WHO PASS YOU, DONT COMPETE WITH HIM[bold white][bold green]]
- 
- Ultra-Version : [bold white]10.0 ðŸ”¥ðŸ”¥ðŸ”¥                                                                     """))
-    prints(Panel(f"""[[bold blue]01[bold white]]. Login Using Token
+        prints(Panel(f"""[[bold blue]01[bold white]]. Login Using Token
 [[bold blue]02[bold white]]. Login Using Cookies
 [[bold blue]03[bold white]]. Login Using User And Password"""))
     p = input(f"  [{K}?{N}] Select : ")
